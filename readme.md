@@ -157,4 +157,9 @@ function find_start_end(
 }
 ```
 
-At this point you will get a `tree` structure, where each node has properties `name, children, color, start, end`. These are sufficient to reproduce the webpage.
+At this point you will get a `tree` structure, where each node has properties `name, children, color, start, end`. These are sufficient to reproduce [https://frontline-dev-mode.web.app](https://frontline-dev-mode.web.app).
+
+
+If you are interested in this position, you are welcome to try out the test and drop us an email with title `Job application: your name`:
+- Ding Ruiqi (CTO): ricky@frontlinec.com
+- Luis Martinez (CEO): luis@frontlinec.com
