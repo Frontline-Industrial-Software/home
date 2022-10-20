@@ -81,6 +81,8 @@ Based on candidate feedback we have made the test into two difficulty levels:
 
 ### Hints
 
+The main point of this test is *high speed display of large amount of data*. The [fake_project.xer](./fake_project.xer) above is a **19.2MB file with 19894 tasks and 28447 dependency relationships**. You will need techniques like `virtual rendering` to be able to display it without delay or page crash!
+
 An `xer` file is simply a combination of several data tables, 
 you can view the [documentation for xer format here](https://docs.oracle.com/cd/F51303_01/English/Mapping_and_Schema/xer_import_export_data_map_project/helpmain.htm?toc.htm?97890.htm).
 For this test you only need to focus on two tables `PROJWBS` and `TASK`. You can use the following code to parse the xer file:
@@ -163,3 +165,6 @@ At this point you will get a `tree` structure, where each node has properties `n
 If you are interested in this position, you are welcome to try out the test and drop us an email with title `Job application: your name`:
 - Ding Ruiqi (CTO): ricky@frontlinec.com
 - Luis Martinez (CEO): luis@frontlinec.com
+
+
+
