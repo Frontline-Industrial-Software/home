@@ -85,7 +85,7 @@ The main point of this test is *high speed display of large amount of data*. The
 
 An `xer` file is simply a combination of several data tables, 
 you can view the [documentation for xer format here](https://docs.oracle.com/cd/F51303_01/English/Mapping_and_Schema/xer_import_export_data_map_project/helpmain.htm?toc.htm?97890.htm).
-For this test you only need to focus on two tables `PROJWBS` and `TASK`. You can use the following code to parse the xer file:
+For this test you only need to focus on two tables `PROJWBS` ([Work breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)) and `TASK`. You can use the following code to parse the xer file:
 
 ```javascript
 function xer_to_json(xer=''){
