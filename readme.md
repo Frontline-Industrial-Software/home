@@ -71,7 +71,7 @@ In this test, you are given a `xer` file (oracle's format): [fake_project.xer](.
 
 ![](./imgs/test_demo.png)
 
-You can view this demo webpage at [https://frontline-dev-mode.web.app](https://frontline-dev-mode.web.app). This page is created by the Ruiqi using less than **260 lines** of source code with **zero external dependencies** except for the standard React framework. Note that Ruiqi holds a degree in Physics, not Computer Science, he basically had to learn on the spot, therefore we expect the professional software developers we hire to be at least capable of the same.
+You can view this demo webpage at [https://frontline-dev-mode.web.app](https://frontline-dev-mode.web.app). This page was created by the Ruiqi using less than **260 lines** of source code with **zero external dependencies** except for the standard React framework. Note that Ruiqi holds a degree in Physics, not Computer Science, he basically had to learn on the spot, therefore we expect the professional software developers we hire to be at least capable of the same.
 
 Based on candidate feedback we have made the test into two difficulty levels:
 
