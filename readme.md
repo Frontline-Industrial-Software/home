@@ -75,7 +75,7 @@ You can view this demo webpage at [https://frontline-dev-mode.web.app](https://f
 
 Based on candidate feedback we have made the test into two difficulty levels:
 
-1. Harder: Use [fake_project.xer](./fake_project.xer) and React framework alone, without any other external dependencies, to reproduce [https://frontline-dev-mode.web.app](https://frontline-dev-mode.web.app). (Again, Ruiqi has proven that this is doable with 260 lines of code)
+1. Harder: Use [fake_project.xer](./fake_project.xer) and React framework alone, without any other external dependencies, to reproduce [https://frontline-dev-mode.web.app](https://frontline-dev-mode.web.app). (Again, Ruiqi has proven that this is doable with 260 lines of code, including the hint codes below)
 
 2. Easier: Use [fake_project.xer](./fake_project.xer), the React framework and **one** external dependency (for example: [Go.js Gantt chart](https://gojs.net/latest/samples/gantt.html)) to reproduce [https://frontline-dev-mode.web.app](https://frontline-dev-mode.web.app)
 
