@@ -58,7 +58,7 @@ In summary, we are hiring people to build a pretty UI to get the best out of our
 
 ### We offer
 
-- 4000USD (and above) salary based on position (fulltime/intern), experience and country. At least 1 month's salary as bonus
+- 4000 USD (and above) salary based on position (fulltime/intern), experience and country. At least 1 month's salary as bonus
 - standard insurances, annual health check
 - remote working preferred
 - 14 days annual leave, company trip to Singapore
