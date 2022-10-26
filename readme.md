@@ -18,7 +18,7 @@ Tools like [Oracle Primavera (released in 1983)](https://en.wikipedia.org/wiki/P
 
 ## Basic mathematics
 
-In a nutshell, we try to find better `duration` values for each task, with this and the `dependency relationships` we can determine and `start/end dates` of each task, we then can determine the `resource usage histogram` based on `duration, start/end dates`, with the `start/end dates` and `resource usage histogram` we can define various `loss functions` and use them to update the `duration` values.
+In a nutshell, we try to find better `duration` values for each task, with this and the `dependency relationships` we can determine and `start/end dates` of each task, we then can determine the `resource usage histogram` based on `duration, start/end dates`. Finally, with the `start/end dates` and `resource usage histogram` we can define various `loss functions` and use them to update the `duration` values.
 
 For more details, see [Basic Frontline mathematics.pdf](./Basic_Frontline_mathematics.pdf) 
 
