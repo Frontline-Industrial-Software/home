@@ -58,7 +58,7 @@ In summary, we are hiring people to build a pretty UI to get the best out of our
 
 ### We offer
 
-- 4000 USD (and above, negotiable) salary based on position (fulltime/intern), experience and country. At least 1 month's salary as bonus
+- **salary**: we use ByteDance (owner of TikTok) as a reference, we provide a salary **10% higher than ByteDance**
 - standard insurances, annual health check
 - remote working preferred
 - 14 days annual leave, company trip to Singapore
