@@ -6,6 +6,29 @@
 - [website](https://www.frontlinec.com)
 - [linkedin](https://www.linkedin.com/company/frontlinec)
 
+### We offer
+
+- **salary**: we use ByteDance (owner of TikTok) as a reference, we provide a salary **10% higher than ByteDance**
+- standard insurances, annual health check
+- remote working preferred
+- 14 days annual leave, company trip to Singapore
+
+### Desired skills
+
+- experience with building B2B SaaS platform
+- experience with large scale & high speed data visualization
+- experience with web based animation (we would like to animate the optimization process to the user)
+- experience with building a web based *designer* (for example, circuit designer, 3d designer)
+- strong at solving new problems, since what we are trying to build is non-standard and innovative
+- ability to build things from scratch (so they can be highly customizable and optimized)
+
+### We don't want
+
+- experience with building e-commerce platforms, personal websites, blogs
+- experience with glueing open source libraries together to make a giant Frankenstein
+
+
+
 ## Introduction
 
 Frontline builds mathematical models for construction projects and finds optimized project designs through high-performance simulations.
@@ -42,26 +65,7 @@ In summary, we are hiring people to build a pretty UI to get the best out of our
 
 ![](./imgs/ui-example.jpg)
 
-### Desired skills
 
-- experience with building B2B SaaS platform
-- experience with large scale & high speed data visualization
-- experience with web based animation (we would like to animate the optimization process to the user)
-- experience with building a web based *designer* (for example, circuit designer, 3d designer)
-- strong at solving new problems, since what we are trying to build is non-standard and innovative
-- ability to build things from scratch (so they can be highly customizable and optimized)
-
-### We don't want
-
-- experience with building e-commerce platforms, personal websites, blogs
-- experience with glueing open source libraries together to make a giant Frankenstein
-
-### We offer
-
-- **salary**: we use ByteDance (owner of TikTok) as a reference, we provide a salary **10% higher than ByteDance**
-- standard insurances, annual health check
-- remote working preferred
-- 14 days annual leave, company trip to Singapore
 
 ## Frontline coding test
 
