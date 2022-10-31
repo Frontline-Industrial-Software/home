@@ -94,7 +94,7 @@ For this test you only need to focus on two tables `PROJWBS` ([Work breakdown st
 ```javascript
 function xer_to_json(xer=''){
   let proj = { tables: {} }, table, fields
-  xer.split('\r\n').forEach(line=>{
+  xer.replace('\r', '').split('\n').forEach(line=>{
     let rows = line.split('\t')
     let type = rows[0], items = rows.slice(1)
     switch(type){
