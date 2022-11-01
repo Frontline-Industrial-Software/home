@@ -21,7 +21,7 @@
 
 ### `optimization engine`
 
-- gets data via websocket from the frontend in Frontline's format defined by [Basic_Frontline_mathematics.pdf](https://github.com/Frontline-Industrial-Software/home/blob/main/Basic_Frontline_mathematics.pdf)
+- gets data via websocket from the frontend in the format defined by [Basic_Frontline_mathematics.pdf](https://github.com/Frontline-Industrial-Software/home/blob/main/Basic_Frontline_mathematics.pdf)
 
 - `productivity forecaster`: computes a statistical average of the productivity for a certain type of resource based on tasks that are completed, and compute tasks properties that are not started based on these values
  
