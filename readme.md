@@ -11,7 +11,7 @@
 - **salary**: we use ByteDance (owner of TikTok) as a reference, we provide a salary **10% higher than ByteDance**
 - standard insurances, annual health check
 - remote working preferred
-- 14 days annual leave, company trip to Singapore
+
 
 ### Desired skills
 
