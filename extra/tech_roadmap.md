@@ -8,7 +8,7 @@
 
 - we will use OP/MP to represent Oracle Primavera / Microsoft Project
 
-# modules, statues, manpowers, timelines
+# modules, developers, timelines
 
 ## structure
 
