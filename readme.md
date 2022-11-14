@@ -67,7 +67,7 @@ In summary, we are hiring people to build a pretty UI to get the best out of our
 
 
 
-## Frontline coding test
+## Frontline coding test A
 
 We value one's true ability much more than the experiences one claims to have. Therefore like most companies we use a test question to determine the candidate's true ability. However, we won't ask you to solve standard questions like string manipulation which we deem useless. We have prepared a custom real-world question instead.
 
@@ -164,6 +164,15 @@ function find_start_end(
 ```
 
 At this point you will get a `tree` structure, where each node has properties `name, children, color, start, end`. These are sufficient to reproduce [https://frontline-dev-mode.web.app](https://frontline-dev-mode.web.app).
+
+
+## Frontline coding test B
+
+Instead of the test A above, you can alternatively do test B. 
+The data, hint codes will be the same, expect for you are expected to make a plot like below using `d3.js` or alternatives, the focus again is high performance data visualisation
+
+![](./imgs/test_B_demo.png)
+
 
 ### Contact us
 
