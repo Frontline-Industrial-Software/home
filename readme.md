@@ -169,7 +169,7 @@ At this point you will get a `tree` structure, where each node has properties `n
 ## Frontline coding test B
 
 Instead of the test A above, you can alternatively do test B. 
-The data, hint codes will be the same, except for you are expected to make a plot like below using `d3.js` or alternatives, the focus again is high performance data visualisation
+The data, hint codes will be the same, except for you are expected to make a plot like below using `D3.js` or alternatives, the focus again is high performance data visualisation
 
 ![](./imgs/test_B_demo.png)
 
