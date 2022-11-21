@@ -173,6 +173,8 @@ The data, hint codes will be the same, except for you are expected to make a plo
 
 ![](./imgs/test_B_demo.png)
 
+**explanation**: the y axis represents ~20k tasks, the x axis represents the start & end dates for the tasks. 
+Each task is represent by a horizontal line segment, the left end represents the start date (`task.target_start_date`), and the right end represents the end date (`task.target_end_date`)
 
 ### Contact us
 
